@@ -1,4 +1,4 @@
-CREATE TABLE employees (
+CREATE TABLE customers (
     employee_id INT NOT NULL AUTO_INCREMENT,
     employee_name VARCHAR(50),
     department VARCHAR(50),
